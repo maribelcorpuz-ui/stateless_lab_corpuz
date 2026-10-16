@@ -1,3 +1,5 @@
+//Sample student data displayed in the directory
+
 import 'package:flutter/material.dart';
 
 void main() => runApp(const DirectoryApp());
